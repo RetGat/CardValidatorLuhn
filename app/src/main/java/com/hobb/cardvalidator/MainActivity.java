@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
     private void checkCard() {
 
         info.setTextColor(Color.parseColor("#0356fc"));
-        info.setText("Verificando el numero...");
+        info.setText("Verificando el numero....");
 
         int[] creditcardInt = new int[input.length()];
 
